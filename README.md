@@ -1,6 +1,6 @@
 Straussn's Fang-das-Seidl
 ===================
 
-Little HTML5 based game.
+Little HTML5 based beer game.
 
-Demo: http://www.abarat-digital.net/seidl/
+Demo: https://strzlee.tk/seidl/
